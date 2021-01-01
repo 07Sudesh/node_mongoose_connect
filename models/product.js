@@ -1,3 +1,4 @@
+// checking git installations
 const mongoose = require('mongoose');
 
 const Schema = mongoose.Schema;
