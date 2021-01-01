@@ -1,4 +1,4 @@
-// checking git installations for check purpose
+// checking git installations for check purpose1
 const mongoose = require('mongoose');
 
 const Schema = mongoose.Schema;
